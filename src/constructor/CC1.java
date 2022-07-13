@@ -4,8 +4,9 @@ public class CC1 {
 
 	int a=10;
 	int b=20;
-	
-	
+	// new git program 
+	// new git program
+	// new git program
 	public CC1()
 	{
 	a=100;
